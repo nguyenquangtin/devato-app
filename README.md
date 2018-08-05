@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nguyenquangtin/gdg-mientrung-app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Devato Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is about building a community news app for GDG Developers Group MienTrung. In the future we hope it can bring the values to all other developers in Vietnam and the world.
 
-### Markdown
+## Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prerequisites
 
-```markdown
-Syntax highlighted code block
+### Installing
 
-# Header 1
-## Header 2
-### Header 3
+## Running the tests
 
-- Bulleted
-- List
+### Break down into end to end tests
 
-1. Numbered
-2. List
+### And coding style tests
 
-**Bold** and _Italic_ and `Code` text
+## Deployment
 
-[Link](url) and ![Image](src)
-```
+## Built With
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contributing
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nguyenquangtin/gdg-mientrung-app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Versioning
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Authors
+
+**GDG Mientrung Community**
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+## Acknowledgments
